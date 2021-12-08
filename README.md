@@ -1,6 +1,8 @@
 ### Hugo Caselles-Dupré.
 
-I am a Machine Learning PhD candidate at Flowers Laboratory (ENSTA - INRIA) in ENSTA ParisTech (supervised by David Filliat) and Softbank Robotics Europe (supervised by Michaël Garcia-Ortiz). My research focus on Representation Learning and Reinforcement Learning.
+I'm currently a Post-Doc at ISIR (Sorbonne University) under the supervision of Olivier Sigaud and Mohamed Chetouani, studying the teachability of autonomous agents.
+
+In 2021, I graduated with a PhD from the Flowers Laboratory of ENSTA ParisTech and INRIA (supervised by David Filliat and Michaël Garcia-Ortiz). The title of my thesis is "On the Role of Action and Machine Learning in Artificial Agent Perception".
 
 To know more about my research, please visit my [website](https://sites.google.com/view/hugo-caselles-dupre/) and my [Google Scholar profile](https://scholar.google.fr/citations?user=86XSAdEAAAAJ&hl=fr).
 
