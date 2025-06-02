@@ -1,6 +1,6 @@
 ### Hugo Caselles-Dupré.
 
-Artist at Obvious. We create Art with Machine Learning. You can learn more about us [here](http://obvious-art.com/).
+Artist at Obvious. We create Art with Machine Learning. Learn about us [here](http://obvious-art.com/).
 
 Research Director at Obvious Research, a research laboratory that we create where we work on Generative AI (image, video, sound) in partnership with ISIR (Sorbonne University). We have an ANR grant of over 1M€ to invent new AI algorithms for artistic creation (2023-2027). We are hiring interns, postdocs, research engineers and PhDs, contact me!
 
